@@ -11,7 +11,7 @@
 - 实测环境：Windows / Node v24.16.0 / PowerShell 7.6.5。
 - 任务：检查六页普通 HTML/CSS 网站的缺图、缺文件链接、缺锚点。教学样例故意包含错误。
 
-**[直接下载样例 ZIP](https://github.com/redants-101/dsh-article-samples/releases/download/untagged-c211cff51373fc03fe4b/article-03-dsh-v0.2.1-alpha.2-samples.zip)** · **[查看版本与附件说明](https://github.com/redants-101/dsh-article-samples/releases/tag/article-03-dsh-v0.2.1-alpha.2-v1)**
+**[直接下载样例 ZIP](https://github.com/redants-101/dsh-article-samples/releases/download/article-03-dsh-v0.2.1-alpha.2-v1/article-03-dsh-v0.2.1-alpha.2-samples.zip)** · **[查看版本与附件说明](https://github.com/redants-101/dsh-article-samples/releases/tag/article-03-dsh-v0.2.1-alpha.2-v1)**
 
 下载文件名：`article-03-dsh-v0.2.1-alpha.2-samples.zip`。页面底部的 Source code 归档不是这个练习包。
 
