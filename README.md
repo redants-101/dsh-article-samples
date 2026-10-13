@@ -40,3 +40,18 @@ SHA-256（v2）：
 ```
 
 后续修订会发布新的版本附件，保留已发布版本，便于读者复现文章。
+
+<!-- article-04-current:start -->
+## 第 4 篇：都能加插件，dsh 到底还能改什么？
+
+- [固定发行页（v2）](https://github.com/redants-101/dsh-article-samples/releases/tag/article-04-dsh-v0.2.1-alpha.2-opencode-v1.19.0-v2)
+- [直接下载第 4 篇 ZIP](https://github.com/redants-101/dsh-article-samples/releases/download/article-04-dsh-v0.2.1-alpha.2-opencode-v1.19.0-v2/article-04-dsh-v0.2.1-alpha.2-opencode-v1.19.0-samples.zip)
+- [SHA-256 校验文件](https://github.com/redants-101/dsh-article-samples/releases/download/article-04-dsh-v0.2.1-alpha.2-opencode-v1.19.0-v2/SHA256SUMS.txt)
+- 固定版本：dsh 0.2.1-alpha.2 / OpenCode 1.19.0；Windows / Node 24 / PowerShell 7。
+- 33 文件、45804 字节；六页网站、共享邮箱规则、两产品工具与独立验收。
+- 同一任务实际调用、工具结果、final、会话关联与时序、八文件不变性分别验收。Web 是 Session 接口实验；未验网页按钮。
+- 下载后先读 README.md；模型凭证自行提供。不含作者凭证、私有 home 或运行结果。
+- SHA-256：`5692e13271b7695c10e73682875bffb4e0b4f8e52bfd5dfc31b7164eaece416d`
+
+保留第 3 篇 v1/v2 和第 4 篇 v1；第 4 篇使用独立扩展包，不能用第 3 篇 ZIP 代替。
+<!-- article-04-current:end -->
